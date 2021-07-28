@@ -17,3 +17,7 @@
  Now look for the Reg_SZ :Service and replace the entry with nvlddmkm1
  
  Reboot.
+ 
+ ## Nvidia Inspector:
+ Exp GDC only support PCI x1, with this strong limited bandwidht right memory memory managment become even more important .
+ Memroy Allocation Policy : 0x00000002 WKS_MEMORY_ALLOCATION_POLICY_AGGRESSIVE_PRE_ALLOCATION
