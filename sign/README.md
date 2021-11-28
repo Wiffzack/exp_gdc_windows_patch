@@ -1,10 +1,12 @@
 # Guide for signing overlocked Display Driver or general.
 # Summary from:
-#https://wccftech.com/amd-freesync-hack-expands-refresh-rate-range/ 
-#http://woshub.com/how-to-sign-an-unsigned-driver-for-windows-7-x64/
 
-First you need the Windows SDK and WDK and then i recommend you to add the installed Folders to your System enviroment
-10.0.22000.0 stand for what ever Version you are using :
+https://wccftech.com/amd-freesync-hack-expands-refresh-rate-range/ 
+
+http://woshub.com/how-to-sign-an-unsigned-driver-for-windows-7-x64/
+
+!First you need the Windows SDK and WDK and then i recommend you to add the installed Folders to your System enviroment
+10.0.22000.0 stand for what ever Version you are using :!
 C:\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\x64
 C:\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\x86
 
