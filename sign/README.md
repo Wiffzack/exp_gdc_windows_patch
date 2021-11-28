@@ -25,4 +25,4 @@ certmgr.exe -add C:\DriverCert\myDrivers.cer -s -r localMachine TRUSTEDPUBLISHER
 
 inf2cat.exe /driver:"C:\DriverCert\xg20" /os:7_X64 /verbose
 
-signtool sign /f myDrivers.pfx /t http://timestamp.digicert.com /p 3lor-qna /fd SHA256 test2.cat
+signtool sign /f myDrivers.pfx /t http://timestamp.digicert.com /p P@ss0wrd  /fd SHA256 test2.cat
